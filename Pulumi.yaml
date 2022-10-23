@@ -1,0 +1,3 @@
+name: bar-demo-go
+description: A minimal scaleway Go Pulumi program
+runtime: go
